@@ -29,11 +29,14 @@ Ensure you have [Anaconda](https://www.anaconda.com/products/distribution) insta
    ```
 For additional resources and other distribution formats, you can visit the official [Allen SDK Documentation](https://allensdk.readthedocs.io/en/latest/).
 
-### 🚀 Let's Start
+Finally, there's a Jupyter Notebook included (dataset_download.ipynb) that automates the process of downloading the dataset directly into your created environment. Simply open the notebook and follow the provided instructions to get started quickly.
 
-There's a Jupyter Notebook included (...ipynb) that automates the process of downloading the dataset directly into your created environment. Simply open the notebook and follow the provided instructions to get started quickly.
+## 🚀 Let's Start
+This project is divided into three key parts:
 
-
+- **Identification of Most Expressive Neurons**: We begin by identifying the neurons in the mice visual cortex that are most responsive to visual stimuli. This step sets the foundation for targeted analysis.
+- **CNN Architecture**: A custom Convolutional Neural Network (CNN) is designed to predict neuronal responses. The architecture and detailed methodology are explained in the accompanying report and notebook.
+- **Generation of the Most Excitatory Inputs (MEI)**: Using gradient ascent on the CNN, we generate the MEI that maximizes neuronal responses. This process is visually illustrated in the results section.
 
 
 

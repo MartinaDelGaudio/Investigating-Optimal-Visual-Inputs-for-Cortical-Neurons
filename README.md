@@ -63,7 +63,7 @@ This project is divided into four key parts:
   The project concludes with a comparative analysis of the generated MEIs and Gabor filters, which are recognized as the most excitatory visual stimuli for mice.
 
 
-# Bibliography
+## References
 
 This work has been inspired by [1] and it was applied on AllenSDK dataset[2].
 

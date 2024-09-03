@@ -1,4 +1,4 @@
-# Investigating-Optimal-Visual-Inputs-newline-for-Cortical-Neurons
+# Investigating-Optimal-Visual-Inputs-for-Cortical-Neurons
 
 This group research is committed to employing deep learning techniques to identify and generate the Most Excitatory Input (MEI) for a single neuron in the visual system of a mouse, specifically through the use of end-to-end trained Convolutional neural networks (CNNs).
 Most Excitatory Inputs (MEIs) represent the specific visual stimuli that are designed to maximally activate the neurons. These in silico stimuli are pivotal for delineating the functional characteristics of a neuronal single-cell, highlighting the features within a neuron's receptive field to which it is most responsive.

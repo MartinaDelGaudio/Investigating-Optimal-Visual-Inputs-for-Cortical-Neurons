@@ -41,17 +41,26 @@ Finally, there's a Jupyter Notebook included (dataset_download.ipynb) that autom
 ## 🚀 Outline of the project
 This project is divided into four key parts:
 
-- **Identification of Most Expressive Neurons**: We begin by identifying the neurons in the mice visual cortex that are most responsive to visual stimuli. This step sets the foundation for targeted analysis.
-  
-- **CNN Architecture**: A custom Convolutional Neural Network (CNN) is designed to predict neuronal responses. The architecture and detailed methodology are explained in the accompanying report and notebook. A visualization of the architecture can be found below.
-  
-![WhatsApp Image 2024-09-03 at 17 54 52](https://github.com/user-attachments/assets/92d6c8a7-9eb6-48d6-b3b3-fe2fc3d12c39)
+- **Identification of Most Expressive Neurons**
 
-- **Generation of the Most Excitatory Inputs (MEI)**: Using various techniques, including gradient ascent on the CNN, we generate the MEI that maximizes neuronal responses. This process is visually illustrated below.
+  We begin by identifying the neurons in the mice visual cortex that are most responsive to visual stimuli. This step sets the foundation for targeted analysis.
   
-![Screenshot 2024-09-03 181620](https://github.com/user-attachments/assets/42fb5212-628e-49d1-a551-d545076f0081)
+- **CNN Architecture**
 
-- **Final Comparison**: The project concludes with a comparative analysis of the generated MEIs and Gabor filters, which are recognized as the most excitatory visual stimuli for mice.
+  A custom Convolutional Neural Network (CNN) is designed to predict neuronal responses. The architecture and detailed methodology are explained in the accompanying report and notebook. A visualization of the architecture can be found below.
+  
+   ![Screenshot 2024-09-03 182439](https://github.com/user-attachments/assets/f56298e0-f788-4331-a9e9-f54518c60637)
+
+
+- **Generation of the Most Excitatory Inputs (MEI)**
+
+  Using various techniques, including gradient ascent on the CNN, we generate the MEI that maximizes neuronal responses. This process is visually illustrated below.
+  
+   ![Screenshot 2024-09-03 181620](https://github.com/user-attachments/assets/42fb5212-628e-49d1-a551-d545076f0081)
+
+- **Final Comparison**
+
+  The project concludes with a comparative analysis of the generated MEIs and Gabor filters, which are recognized as the most excitatory visual stimuli for mice.
 
 
 # Bibliography
